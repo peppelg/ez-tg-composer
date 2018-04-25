@@ -2,6 +2,7 @@
   "name": "peppelg/ez-tg",
   "description": "EzTG",
   "license": "Unlicense",
+  "inimum-stability": "dev",
   "require": {
     "ext-curl": "*"
   },
