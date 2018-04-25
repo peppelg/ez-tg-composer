@@ -1,0 +1,11 @@
+{
+  "name": "peppelg/ez-tg",
+  "description": "EzTG",
+  "license": "Unlicense",
+  "require": {
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "files": ["src/EzTG.php"]
+  }
+}
